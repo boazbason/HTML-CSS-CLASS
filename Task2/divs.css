@@ -1,0 +1,39 @@
+#nav{
+    display: flex;
+    background-color: red;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.nav_back{
+    background-color: pink;
+}
+#big_left_div{
+    background-color: bisque;
+    width: 20%;
+    height: 600px;
+    font-size: 30px;
+}
+.manu_item{
+    background-color: blueviolet;
+    margin: 4px;
+}
+#last_item{
+    background-color:chartreuse;
+}
+#big_right_div{
+    background-color: aqua;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#main_div{
+    display: flex;
+    flex-direction: row;
+}
+#footer{
+    background-color: peru;
+    height: 50px;
+    text-align: center;
+
+}
